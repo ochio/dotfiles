@@ -1,0 +1,7 @@
+{
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "editor.fontSize": 10,
+    "workbench.editor.enablePreview": false,
+    "editor.renderWhitespace": "all"
+}
