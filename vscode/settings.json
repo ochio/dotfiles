@@ -3,5 +3,11 @@
     "editor.wordWrap": "on",
     "editor.fontSize": 10,
     "workbench.editor.enablePreview": false,
-    "editor.renderWhitespace": "all"
+    "editor.renderWhitespace": "all",
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+	"code-runner.runInTerminal": true,
+    "[python]": {
+        "editor.formatOnType": true,
+        "editor.tabSize": 4
+    }
 }
