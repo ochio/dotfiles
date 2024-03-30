@@ -1,16 +1,17 @@
 {
-    "editor.tabSize": 2,
-    "editor.wordWrap": "on",
-    "editor.fontSize": 10,
-    "workbench.editor.enablePreview": false,
-    "editor.renderWhitespace": "all",
-    "terminal.integrated.enableMultiLinePasteWarning": false,
-    "code-runner.runInTerminal": true,
-    "[python]": {
-      "editor.formatOnType": true,
-      "editor.tabSize": 4
-    },
-    "workbench.startupEditor": "none",
-    "explorer.compactFolders": false,
-    "editor.minimap.enabled": false
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.fontSize": 10,
+  "workbench.editor.enablePreview": false,
+  "editor.renderWhitespace": "all",
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "code-runner.runInTerminal": true,
+  "[python]": {
+    "editor.formatOnType": true,
+    "editor.tabSize": 4
+  },
+  "workbench.startupEditor": "none",
+  "explorer.compactFolders": false,
+  "editor.minimap.enabled": false,
+  "workbench.tree.enableStickyScroll": false
 }
